@@ -5,9 +5,12 @@ This repoository contains information for the prople who wants to get Hal Seki's
 このリポジトリには、関　治之のプロフィールを欲しい人の為の情報があります。関が登壇する講演やイベントページへの掲載時に自由にお使いください。
 違う文字数の依頼や、希望する体裁などありましたら、Issue から登録いただければ対応いたします。
 
-ライセンス/Lisence : CC-BY-ND
+ライセンス/Lisence : CC-BY-ND 3.0
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/3.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/">クリエイティブ・コモンズ 表示 - 改変禁止 3.0 非移植 ライセンス</a>の下に提供されています。
+
+上記ライセンスに従う(つまり内容の改変をしない)限り、本ページのコンテンツの利用の際にクレジット表記をする必要はありません。  
+また、本ページの一部のみ抜き出して利用していただくことも問題ありません。
 
 ## 肩書(2017年4月24日現在)
 ※イベントの趣旨に合わせて選択していただいて構いません
