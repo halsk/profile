@@ -3,7 +3,7 @@
 This repoository contains information for the prople who wants to get Hal Seki's profile. Please feel free to use any introductionss for your event/forum/seminors which Hal will be presented. You can see English profile on the bottom of this page.
 
 このリポジトリには、関　治之のプロフィールを欲しい人の為の情報があります。関が登壇する講演やイベントページへの掲載時に自由にお使いください。
-文字数違いや足りない情報などありましたら、Issue から登録いただければ対応いたします。
+違う文字数の依頼や不足情報などありましたら、Issue から登録いただければ対応いたします。
 
 ライセンス/Lisence : CC-BY-ND
 
