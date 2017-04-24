@@ -54,6 +54,18 @@ Georepublic Japan CEO
 位置情報系シビックハッカー。大手ソフトハウスで金融系システムの構築などに従事後、Geo Developer として数々の位置情報系のサービスの開発を手掛ける他、位置情報を活用したメディア（ジオメディア）の普及を目的としたフリーカンファレンス、ジオメディアサミットの立ち上げなどのコミュニティ活動にも力をいれてきた。「テクノロジーで、地域をより住みやすく」をモットーに自身の会社、合同会社Georepublic Japan で位置情報系アプリケーションの開発事業を行う他、会社の枠を超えて様々なコミュニティで積極的に活動する。
 (283文字)
 ```
+----
+
+## Contact
+
+hal@georepublic.co.jp
+
+## Social Media
+
+* Facebook: [halsk](https://www.facebook.com/halsk)
+* Twitter: [hal_sk](https://twitter.com/hal_sk)
+* Linkedin: [halsk](https://www.linkedin.com/in/halsk/)
+* Qiita: [hal_sk](http://qiita.com/hal_sk)
 
 ## profile picture
 
