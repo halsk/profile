@@ -47,6 +47,7 @@ Georepublic Japan CEO
 ## profile picture
 
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image.jpg" width="300px"></a>
+(click to get a raw picture)
 
 ----
 ### English profile
