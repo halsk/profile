@@ -1,10 +1,12 @@
-# Hal Seki's profile
+# Hal Seki's profile (関　治之のプロフィール)
 
 This repoository contains information for the prople who wants to get Hal Seki's profile. Please feel free to use any introductionss for your event/forum/seminors which Hal will be presented. You can see English profile on the bottom of this page.
+
 このリポジトリには、関　治之のプロフィールを欲しい人の為の情報があります。関が登壇する講演やイベントページへの掲載時に自由にお使いください。
 文字数違いや足りない情報などありましたら、Issue から登録いただければ対応いたします。
 
 ライセンス/Lisence : CC-BY-ND
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/3.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/">クリエイティブ・コモンズ 表示 - 改変禁止 3.0 非移植 ライセンス</a>の下に提供されています。
 
 ## 肩書(2017年4月24日現在)
