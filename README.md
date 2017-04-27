@@ -1,6 +1,6 @@
 # Hal Seki's profile (関　治之のプロフィール)
 
-This repoository contains information for the prople who wants to get Hal Seki's profile. Please feel free to use any introductionss for your event/forum/seminors which Hal will be presented. You can see English profile on the bottom of this page.
+This repository contains information for the people who wants to get Hal Seki's profile. Please feel free to use any introductions for your event/forum/seminars which Hal will be presented. You can see English profile on the bottom of this page.
 
 このリポジトリには、関　治之のプロフィールを欲しい人の為の情報があります。関が登壇する講演やイベントページへの掲載時に自由にお使いください。
 違う文字数の依頼や、希望する体裁などありましたら、Issue から登録いただければ対応いたします。
