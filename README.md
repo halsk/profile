@@ -1,18 +1,17 @@
 # Hal Seki's profile (関　治之のプロフィール)
 
-This repository contains information for the people who wants to get Hal Seki's profile. Please feel free to use any introductions for your event/forum/seminars which Hal will be presented. You can see English profile on the bottom of this page.
+This repository contains information for the people who wants to get Hal Seki's profile. Please feel free to use any introductions for your event/forum/seminars which Hal will be presented. You can see English profile from [this page](README_en.md)
 
 このリポジトリには、関　治之のプロフィールを欲しい人の為の情報があります。関が登壇する講演やイベントページへの掲載時に自由にお使いください。
 違う文字数の依頼や、希望する体裁などありましたら、Issue から登録いただければ対応いたします。
 
-ライセンス/Lisence : CC-BY-ND 3.0
+ライセンス/Lisence : CC-BY-ND 4.0
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/3.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/">クリエイティブ・コモンズ 表示 - 改変禁止 3.0 非移植 ライセンス</a>の下に提供されています。
-
-上記ライセンスに従う(つまり内容の改変をしない)限り、本ページのコンテンツの利用の際にクレジット表記をする必要はありません。  
+<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">クリエイティブ・コモンズ 表示 - 改変禁止 4.0 国際 ライセンス</a>の下に提供されています。
+上記ライセンスに従う(つまり内容の改変をしない)限り、本ページのコンテンツの利用の際にクレジット表記をする必要はありません。
 また、本ページの一部のみ抜き出して利用していただくことも問題ありません。
 
-## 肩書(2017年4月24日現在)
+## 肩書(2017年5月2日現在)
 ※イベントの趣旨に合わせて選択していただいて構いません
 * 合同会社Georepublic Japan 代表社員/CEO
 * 一般社団法人コード・フォー・ジャパン 代表理事
@@ -75,9 +74,3 @@ hal@georepublic.co.jp
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image.jpg" width="300px"></a>
 (click to get a raw picture)
 
-----
-### English profile
-
-```
-Hal Seki has been working as a Geo Developer since 2002. He is a CEO of Georepublic Japan, which is providing location based system consulting/developing services, as well as a representative of Code for Japan. He is well known as a community manager for solving social issues bu technology tools in Japan. Also, He is entitled as Ushahidi Certificated Developer since he has been a managing director of Sinsai.info, a cloud sourcing platform for collecting crisis information using Ushahidi since 2010, the Great East Japan Earthquake occurred. He is also a member of Open Knowledge of Foundation Japan and OpenStreetMap Foundation Japan.
-```
