@@ -1,6 +1,6 @@
 # Hal Seki's profile
 
-This repository contains information for the people who wants to get Hal Seki's profile. Please feel free to use any introductions for your event/forum/seminars which Hal will be presented. You can see Japanese profile from [here](README.md)
+This repository contains information for the people who wants to get Hal Seki's profile. Please feel free to use any introductions for your event/forum/seminars which Hal will be presented. You can see Japanese profile from [this page](README.md)
 
 Lisence : CC-BY-ND 4.0
 
@@ -8,7 +8,7 @@ Lisence : CC-BY-ND 4.0
 You don't need to show any attribution when you follow above lisence (means you don't modify it). And you can pick up any part of this page.
 
 ## Title (as of May 2nd, 2017)
-※You can choose any titles for the purpose of your event.
+※You can choose any titles according to the purpose of your event.
 * Georepublic Japan - CEO
 * Code for Japan - Representative
 * HackCamp - CEO/CHO(Chief Hackathon Officer)
