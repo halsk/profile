@@ -11,6 +11,8 @@ This repository contains information for the people who wants to get Hal Seki's 
 上記ライセンスに従う(つまり内容の改変をしない)限り、本ページのコンテンツの利用の際にクレジット表記をする必要はありません。
 また、本ページの一部のみ抜き出して利用していただくことも問題ありません。
 
+[後援依頼はこちら](/halsk/profile/blob/master/SPEECH_REQUEST.md)
+
 ## 肩書(2017年5月2日現在)
 ※イベントの趣旨に合わせて選択していただいて構いません
 * 合同会社Georepublic Japan 代表社員/CEO
@@ -73,4 +75,3 @@ hal@georepublic.co.jp
 
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image.jpg" width="300px"></a>
 (click to get a raw picture)
-
