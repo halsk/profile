@@ -18,7 +18,7 @@ You don't need to show any attribution when you follow above lisence (means you 
 ## Profile
 
 ```
-Hal Seki has been working as a Geo Developer since 2002. He is a CEO of Georepublic Japan, which is providing location based system consulting/developing services, as well as a representative of Code for Japan. He is well known as a community manager for solving social issues by technology tools in Japan. Also, He is entitled as Ushahidi Certificated Developer since he has been a managing director of Sinsai.info, a cloud sourcing platform for collecting crisis information using Ushahidi since 2010, the Great East Japan Earthquake occurred. He is also a member of Open Knowledge of Foundation Japan and OpenStreetMap Foundation Japan.
+Hal Seki has been working as a Geo Developer since 2002. He is a Founder and Representative of Code for Japan, which is one of the biggest civic tech community in Japan. Also, Hal is a CEO of Georepublic Japan, providing location-based system consulting/developing services using open source GIS. He is well known as a community manager for solving social issues by technology tools in Japan. Also, He started his social entrepreneur's career when he was managing Sinsai.info, a cloud sourcing platform for collecting crisis information after the Great East Japan Earthquake occurred. He is also a member of Open Knowledge Japan and OpenStreetMap Foundation Japan.
 ```
 ## profile picture
 
