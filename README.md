@@ -11,17 +11,16 @@ This repository contains information for the people who wants to get Hal Seki's 
 上記ライセンスに従う(つまり内容の改変をしない)限り、本ページのコンテンツの利用の際にクレジット表記をする必要はありません。
 また、本ページの一部のみ抜き出して利用していただくことも問題ありません。
 
-[後援依頼はこちら](https://github.com/halsk/profile/blob/master/SPEECH_REQUEST.md)
+[講演依頼はこちら](https://github.com/halsk/profile/blob/master/SPEECH_REQUEST.md)
 
-## 肩書(2017年5月2日現在)
+## 肩書(2019/07/30現在)
 ※イベントの趣旨に合わせて選択していただいて構いません
 * 合同会社Georepublic Japan 代表社員/CEO
 * 一般社団法人コード・フォー・ジャパン 代表理事
-* 株式会社HackCamp 代表取締役社長/CHO(Chief Hackathon Officer)
+* 株式会社HackCamp 代表取締役社長/CEO
 
 * 神戸市 チーフ・イノベーション・オフィサー
 * 総務省 地域情報化アドバイザー
-* 総務省 地域IoT実装推進タスクフォース 構成員
 * 内閣官房 オープンデータ伝道師
 
 ## プロフィール
