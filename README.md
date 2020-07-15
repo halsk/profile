@@ -13,8 +13,9 @@ This repository contains information for the people who wants to get Hal Seki's 
 
 [講演依頼はこちら](https://github.com/halsk/profile/blob/master/SPEECH_REQUEST.md)
 
-## 肩書(2020/05/30現在)
+## 肩書(2020/07/15 現在)
 ※イベントの趣旨に合わせて選択していただいて構いません
+* 政策起業家
 * 合同会社Georepublic Japan 代表社員/CEO
 * 一般社団法人コード・フォー・ジャパン 代表理事
 * 株式会社HackCamp 代表取締役社長/CEO
