@@ -23,6 +23,8 @@ Hal Seki has been working as a geolocation service developer since 2002. He is a
 ## profile picture
 
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image.jpg" width="300px"></a>
+<a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image2.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image2.jpg" width="300px"></a>
+<a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image3.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image3.jpg" width="300px"></a>
 (click to get a raw picture)
 
 ## Contact
