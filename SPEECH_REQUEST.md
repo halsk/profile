@@ -21,8 +21,3 @@ http://www.code4japan.org/brigade/
 ## アイデアソンやハッカソンなどの企画運営依頼について
 
 アイデアソンやハッカソンの企画運営を依頼したい場合、[株式会社HackCamp](http://hackcamp.jp) までお問い合わせください。
-
-## 自治体の方へ
-関は、総務省の地域情報化アドバイザーとして登録されております。本制度を利用すると、交通費や謝金が補助されますのでご検討ください
-
-[総務省地域情報化アドバイザー制度](http://www.soumu.go.jp/menu_seisaku/ictseisaku/ictriyou/manager.html)
