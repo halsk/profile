@@ -10,7 +10,7 @@ You don't need to show any attribution when you follow above lisence (means you 
 ## Title (as of May 2nd, 2017)
 ※You can choose any titles according to the purpose of your event.
 * Georepublic Japan - CEO
-* Code for Japan - Representative
+* Code for Japan - Founder
 * HackCamp - CEO/CHO(Chief Hackathon Officer)
 * Kobe City Office - Chief Innovation Officer
 * Cabinet Secretariat (Japan) - Open Data Evangelist
