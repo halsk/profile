@@ -27,7 +27,7 @@ This repository contains information for the people who wants to get Hal Seki's 
 * 神戸市 チーフ・イノベーション・オフィサー
 * 東京都 デジタルトランスフォーメーションフェロー(DXフェロー)
 * 浜松市　フェロー
-* 西粟倉村　最高情報戦略監
+* 西粟倉村　最高情報戦略監(チーフ・インフォメーション・オフィサー)
 * 総務省 地域情報化アドバイザー
 * 内閣官房 オープンデータ伝道師
 
