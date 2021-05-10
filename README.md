@@ -13,7 +13,7 @@ This repository contains information for the people who wants to get Hal Seki's 
 
 [講演依頼はこちら](https://github.com/halsk/profile/blob/master/SPEECH_REQUEST.md)
 
-## 肩書(2021/03/23 現在)
+## 肩書(2021/05/10 現在)
 ※イベントの趣旨に合わせて選択していただいて構いません
 * 政策起業家
 
