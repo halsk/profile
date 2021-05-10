@@ -22,12 +22,14 @@ This repository contains information for the people who wants to get Hal Seki's 
 * 一般社団法人コード・フォー・ジャパン 代表理事
 * 株式会社HackCamp 代表取締役社長/CEO
 
-アドバイザー
+行政アドバイザー
 * 内閣官房IT総合戦略室 CIO補佐官
 * 神戸市 チーフ・イノベーション・オフィサー
-* 東京都 デジタルトランスフォーメーションフェロー(DXフェロー)
-* 浜松市　フェロー
-* 西粟倉村　最高情報戦略監(チーフ・インフォメーション・オフィサー)
+* 東京都 チーフデジタルサービスフェロー
+* 静岡県浜松市　フェロー
+* 岡山県西粟倉村　最高情報戦略監(チーフ・インフォメーション・オフィサー)
+* 山口県 CIO補佐官
+* 大阪府枚方市 DXフェロー
 * 総務省 地域情報化アドバイザー
 * 内閣官房 オープンデータ伝道師
 
@@ -44,10 +46,10 @@ This repository contains information for the people who wants to get Hal Seki's 
 
 ```
 一般社団法人コード・フォー・ジャパン代表理事。「テクノロジーで、地域をより住みやすく」をモットーに、会社の枠を超えて様々なコミュニティで積極的に活動する。
-住民参加型のテクノロジー活用「シビックテック」を日本で推進している他、オープンソースGISを使ったシステム開発企業、合同会社 Georepublic Japan CEO及び、企業のオープンイノベーションを支援する株式会社HackCampの代表取締役社長も勤める。
-また、神戸市のチーフ・イノベーション・オフィサー（非常勤）や東京都のフェローとして、自治体のスタートアップ支援政策やオープンデータ活用を推進している。
+住民や行政、企業が共創しながらより良い社会を作るための技術「シビックテック」を日本で推進している他、オープンソースGISを使ったシステム開発企業、合同会社 Georepublic Japan CEO及び、企業のオープンイノベーションを支援する株式会社HackCampの代表取締役社長も勤める。
+また、内閣官房の政府CIO補佐官や神戸市のチーフ・イノベーション・オフィサー、東京都のチーフデジタルサービスフェローなど、行政のオープンガバナンス化やデータ活用、デジタル活用を支援している。
 その他の役職：総務省 地域情報化アドバイザー、内閣官房 オープンデータ伝道師 等
-(312文字)
+(540文字)
 ```
 
 ### ハックキャンプ寄り
@@ -73,10 +75,12 @@ hal@georepublic.co.jp
 
 ## Social Media
 
+* note: [hal_sk](https://note.com/hal_sk/)
 * Facebook: [halsk](https://www.facebook.com/halsk)
 * Twitter: [hal_sk](https://twitter.com/hal_sk)
 * Linkedin: [halsk](https://www.linkedin.com/in/halsk/)
 * Qiita: [hal_sk](http://qiita.com/hal_sk)
+
 
 ## profile picture
 
