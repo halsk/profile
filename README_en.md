@@ -7,16 +7,20 @@ Lisence : CC-BY-ND 4.0
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
 You don't need to show any attribution when you follow above lisence (means you don't modify it). And you can pick up any part of this page.
 
-## Title (as of Nov 2nd, 2020)
+## Title (as of May 10, 2021)
 ※You can choose any titles according to the purpose of your event.
 * Georepublic Japan - CEO
 * Code for Japan - Founder
 * HackCamp - CEO/CHO(Chief Hackathon Officer)
-* Cabinet Secretariat (Japan) - Executive Adviser for Chief Information Officer
+
+## Advisory to governments
+* Cabinet Secretariat (Japan) - Executive Advisor to the Government CIO
 * Kobe City Office - Chief Innovation Officer
-* Tokyo Metropolitan Government - Digital Transformation Fellow
-* Hamamatsu City Office - Fellow
-* Nishi Awakura Villege - Chief Inofrmation Officer
+* Tokyo Metropolitan Government - Chief Digital Service Fellow
+* Hamamatsu City Office, Shizuoka prefecture - Fellow
+* Nishi Awakura Villege, Okayama prefecture - Chief Inofrmation Officer
+* Yamaguchi prefecture - Executive Advisor to the Government CIO
+* Hirakata-shi, Osaka - Digital Transformation Fellow
 
 ## Profile
 
