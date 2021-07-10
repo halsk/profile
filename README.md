@@ -35,6 +35,15 @@ This repository contains information for the people who wants to get Hal Seki's 
 
 ## プロフィール
 
+```
+自由で楽しい社会参加の形を日本国民全員に届けるために活動している、共創エンジニアです。
+組織の枠を超えて様々な人が主体的に関わる環境づくりを通じて、企業や行政のオープンイノベーションを支援しつつ、自身でもいくつか会社を経営しています。
+Code for Japan では、「ともに考え、ともにつくる社会」を目指して、市民と行政がオープンにつながり、社会をアップデートする仕組みを作ってきました。
+HackCamp社では、上場企業や官公庁の中でイノベーションがうまれる仕組みづくりをお手伝いしています。
+社員の成長が企業の成長とリンクする文化を作ることで、自律的に成長する組織が作れると考えています。
+(295文字)
+```
+
 ### シビックテック寄り、シンプル版
 
 ```
@@ -49,7 +58,7 @@ This repository contains information for the people who wants to get Hal Seki's 
 住民や行政、企業が共創しながらより良い社会を作るための技術「シビックテック」を日本で推進している他、オープンソースGISを使ったシステム開発企業、合同会社 Georepublic Japan CEO及び、企業のオープンイノベーションを支援する株式会社HackCampの代表取締役社長も勤める。
 また、内閣官房の政府CIO補佐官や神戸市のチーフ・イノベーション・オフィサー、東京都のチーフデジタルサービスフェローなど、行政のオープンガバナンス化やデータ活用、デジタル活用を支援している。
 その他の役職：総務省 地域情報化アドバイザー、内閣官房 オープンデータ伝道師 等
-(540文字)
+(362文字)
 ```
 
 ### ハックキャンプ寄り
@@ -84,6 +93,7 @@ hal@georepublic.co.jp
 
 ## profile picture
 
+<a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image4.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image4.jpg" width="300px"></a>
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image.jpg" width="300px"></a>
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image2.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image2.jpg" width="300px"></a>
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image3.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image3.jpg" width="300px"></a>
