@@ -11,6 +11,10 @@
 ただし、内容が面白そうだったり、Code for Japan の活動がより広がるような機会であれば、上記限りではありません。
 また、学会での発表等で、世の中に広く知見を共有する場合もご相談は可能です。
 
+[こちらの登壇依頼フォーム](https://docs.google.com/forms/d/e/1FAIpQLScxEh-TvCgql79lTlHK8FM51ZUWiEcDfNka1-wIQ5DjcbiFTQ/viewform)からご連絡ください。
+
+なお、シビックテックやGovTechに関する講演で、私個人以外の登壇者でも可能な場合、Code for Japan までお問い合わせいただければ、適宜人選してご紹介させていただくことが可能ですので、 info@code4japan.org までご連絡ください。
+
 ## Code for Japan コミュニティの方へ
 
 Code for Japan Brigade などが主催するイベントの場合、Code for Japan から依頼いただければ、テーマに応じて適切な人をご紹介します。ご活用ください。
