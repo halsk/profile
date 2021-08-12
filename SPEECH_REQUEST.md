@@ -17,7 +17,7 @@
 
 ## Code for Japan コミュニティの方へ
 
-Code for Japan Brigade などが主催するイベントの場合、Code for Japan 宛に依頼いただければ、テーマに応じて適切な人をご紹介します。ご活用ください。
+Code for Japan Brigade などが主催するイベントの場合、テーマに応じた講師を無償で派遣させていただく制度があります。Code for Japan 宛に依頼いただければ、テーマに応じて適切な人をご紹介します。ご活用ください。
 http://www.code4japan.org/brigade/
 
 ## 学生の方へ
