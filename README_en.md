@@ -14,7 +14,7 @@ You don't need to show any attribution when you follow above lisence (means you 
 * HackCamp - CEO/CHO(Chief Hackathon Officer)
 
 ## Advisory to governments
-* Cabinet Secretariat (Japan) - Executive Advisor to the Government CIO
+* Digital Agency (Japan) - Projcet Manager
 * Kobe City Office - Chief Innovation Officer
 * Tokyo Metropolitan Government - Chief Digital Service Fellow
 * Hamamatsu City Office, Shizuoka prefecture - Fellow
