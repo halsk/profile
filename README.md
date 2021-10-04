@@ -95,7 +95,6 @@ hal@georepublic.co.jp
 
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image5.png"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image5.png" width="300px"></a>
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image4.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image4.jpg" width="300px"></a>
-<a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image.jpg" width="300px"></a>
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image2.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image2.jpg" width="300px"></a>
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image3.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image3.jpg" width="300px"></a>
 (click to get a raw picture)
