@@ -29,6 +29,7 @@ This repository contains information for the people who wants to get Hal Seki's 
 * 静岡県浜松市　フェロー
 * 岡山県西粟倉村　最高情報戦略監(チーフ・インフォメーション・オフィサー)
 * 山口県 CIO補佐官
+* 香川県 かがわDX Labフェロー
 * 大阪府枚方市 DXフェロー
 * 総務省 地域情報化アドバイザー
 * 内閣官房 オープンデータ伝道師
