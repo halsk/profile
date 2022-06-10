@@ -93,6 +93,10 @@ hal@georepublic.co.jp
 
 ## profile picture
 
+<a href="https://raw.githubusercontent.com/halsk/profile/master/images/bust-up-1.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/bust-up-1.jpg" width="300px"></a>
+<a href="https://raw.githubusercontent.com/halsk/profile/master/images/full-body-1.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/full-body-1.jpg" width="300px"></a>
+<a href="https://raw.githubusercontent.com/halsk/profile/master/images/bust-up-2.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/bust-up-2.jpg" width="300px"></a>
+<a href="https://raw.githubusercontent.com/halsk/profile/master/images/full-body-2.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/full-body-2.jpg" width="300px"></a>
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image5.png"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image5.png" width="300px"></a>
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image4.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image4.jpg" width="300px"></a>
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image.jpg" width="300px"></a>
