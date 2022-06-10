@@ -13,7 +13,7 @@ This repository contains information for the people who wants to get Hal Seki's 
 
 [講演依頼はこちら](https://github.com/halsk/profile/blob/master/SPEECH_REQUEST.md)
 
-## 肩書(2021/05/10 現在)
+## 肩書(2022/06/06 現在)
 ※イベントの趣旨に合わせて選択していただいて構いません
 * 政策起業家
 
@@ -23,12 +23,13 @@ This repository contains information for the people who wants to get Hal Seki's 
 * 株式会社HackCamp 代表取締役社長/CEO
 
 行政アドバイザー
-* 内閣官房IT総合戦略室 CIO補佐官
+* デジタル庁 プロジェクトマネージャー
 * 神戸市 チーフ・イノベーション・オフィサー
 * 東京都 チーフデジタルサービスフェロー
 * 静岡県浜松市　フェロー
 * 岡山県西粟倉村　最高情報戦略監(チーフ・インフォメーション・オフィサー)
 * 山口県 CIO補佐官
+* 香川県 かがわDX Labフェロー
 * 大阪府枚方市 DXフェロー
 * 総務省 地域情報化アドバイザー
 * 内閣官房 オープンデータ伝道師
@@ -56,7 +57,7 @@ HackCamp社では、上場企業や官公庁の中でイノベーションがう
 ```
 一般社団法人コード・フォー・ジャパン代表理事。「テクノロジーで、地域をより住みやすく」をモットーに、会社の枠を超えて様々なコミュニティで積極的に活動する。
 住民や行政、企業が共創しながらより良い社会を作るための技術「シビックテック」を日本で推進している他、オープンソースGISを使ったシステム開発企業、合同会社 Georepublic Japan CEO及び、企業のオープンイノベーションを支援する株式会社HackCampの代表取締役社長も勤める。
-また、内閣官房の政府CIO補佐官や神戸市のチーフ・イノベーション・オフィサー、東京都のチーフデジタルサービスフェローなど、行政のオープンガバナンス化やデータ活用、デジタル活用を支援している。
+また、デジタル庁のプロジェクトマネージャーや神戸市のチーフ・イノベーション・オフィサー、東京都のチーフデジタルサービスフェローなど、行政のオープンガバナンス化やデータ活用、デジタル活用を支援している。
 その他の役職：総務省 地域情報化アドバイザー、内閣官房 オープンデータ伝道師 等
 (362文字)
 ```
@@ -66,7 +67,7 @@ HackCamp社では、上場企業や官公庁の中でイノベーションがう
 ```
 株式会社HackCamp 代表取締役社長/CHO(Chief Hackathon Officer)
 自身も開発者として主に位置情報系のサービスを数多く立ち上げてきたが、震災を機に社会課題解決型のハッカソンを様々な地域で実施。テクノロジーを活用したオープンイノベーションについて研究/実践してきた。シビックテックの推進団体、Code for Japan の代表も務める傍ら、企業のオープンイノベーションを支援するHackCamp社を設立。社会課題からエンターテインメントまで、幅広く様々なハッカソンを実施している。HackCampでは、企業の依頼を受け、ハッカソンを企画運営する他、新規事業のコンサルティングを行う。
-(306文字)
+(313文字)
 ```
 
 ### Georepublic 寄り
@@ -99,7 +100,6 @@ hal@georepublic.co.jp
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/full-body-2.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/full-body-2.jpg" width="300px"></a>
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image5.png"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image5.png" width="300px"></a>
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image4.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image4.jpg" width="300px"></a>
-<a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image.jpg" width="300px"></a>
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image2.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image2.jpg" width="300px"></a>
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image3.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image3.jpg" width="300px"></a>
 (click to get a raw picture)
