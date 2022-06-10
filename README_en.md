@@ -29,14 +29,6 @@ You don't need to show any attribution when you follow above lisence (means you 
 Hal Seki has been working as a geolocation service developer since 2002. He is a founder of Code for Japan, which is one of the biggest civic tech community in Japan. Also, Hal is the CEO of Georepublic Japan, providing location-based system consulting/developing services using open source GIS as well as the CEO of HackCamp. This company helps organizations' open innovation strategies. He is well known as a community manager for solving social issues through technology tools in Japan. He has been actively promoting civic tech movement since he started his social entrepreneur's career when he was managing Sinsai.info, a cloud sourcing platform for collecting crisis information after the Great East Japan Earthquake occurred.
 ```
 
-
-## profile picture
-
-<a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image5.png"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image5.png" width="300px"></a>
-<a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image2.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image2.jpg" width="300px"></a>
-<a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image3.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image3.jpg" width="300px"></a>
-(click to get a raw picture)
-
 ## Contact
 
 hal@georepublic.co.jp
@@ -47,5 +39,18 @@ hal@georepublic.co.jp
 * Twitter: [hal_sk](https://twitter.com/hal_sk)
 * Linkedin: [halsk](https://www.linkedin.com/in/halsk/)
 * Qiita: [hal_sk](http://qiita.com/hal_sk)
+* 
+## profile picture
 
+(click to get a raw picture)
 
+<a href="https://raw.githubusercontent.com/halsk/profile/master/images/bust-up-1.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/bust-up-1.jpg" width="300px"></a>
+<a href="https://raw.githubusercontent.com/halsk/profile/master/images/full-body-1.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/full-body-1.jpg" width="300px"></a>
+<a href="https://raw.githubusercontent.com/halsk/profile/master/images/bust-up-2.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/bust-up-2.jpg" width="300px"></a>
+<a href="https://raw.githubusercontent.com/halsk/profile/master/images/full-body-2.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/full-body-2.jpg" width="300px"></a>
+<a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image5.png"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image5.png" width="300px"></a>
+<a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image4.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image4.jpg" width="300px"></a>
+<a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image2.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image2.jpg" width="300px"></a>
+<a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image3.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image3.jpg" width="300px"></a>
+
+(click to get a raw picture)
