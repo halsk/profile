@@ -15,7 +15,7 @@ This repository contains information for the people who wants to get Hal Seki's 
 
 ## 肩書(2022/11/01 現在)
 ※イベントの趣旨に合わせて選択していただいて構いません
-* 政策起業家
+* 政策起業家、シビックハッカー
 
 運営組織
 * 合同会社Georepublic Japan 代表社員/CEO
@@ -31,8 +31,12 @@ This repository contains information for the people who wants to get Hal Seki's 
 * 山口県 CIO補佐官
 * 香川県 かがわDX Labフェロー
 * 大阪府枚方市 DXフェロー
+* 三重県 みえDXアドバイザー
 * 総務省 地域情報化アドバイザー
 * 内閣官房 オープンデータ伝道師
+
+その他
+* GovTech協会 理事
 
 ## プロフィール
 
