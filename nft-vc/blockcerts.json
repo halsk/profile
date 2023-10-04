@@ -1,0 +1,18 @@
+{
+  "@context": [
+    "https://w3id.org/openbadges/v2",
+    "https://w3id.org/blockcerts/3.0"
+  ],
+  "type": "Profile",
+  "id": "https://www.halsk.xyz/nft-vc/blockcerts.json",
+  "name": "Hal Seki",
+  "url": "https://www.halsk.xyz/nft-vc/",
+  "publicKey": [
+    {
+      "id": "ecdsa-koblitz-pubkey:0x6233c6B65b2280B2aAc1c4DB94727b0970ceB8DF",
+      "created": "2022-10-10T10:00:00.000000+00:00"
+    }
+  ],
+  "revocationList": "https://www.halsk.xyz/nft-vc/blockcerts_revocation_list.json",
+  "image": ""
+}

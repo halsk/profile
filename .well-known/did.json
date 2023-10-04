@@ -1,0 +1,23 @@
+{
+  "id": "did:web:www.halsk.xyz",
+  "verificationMethod": [
+    {
+      "id": "#key-1",
+      "controller": "did:web:www.halsk.xyz",
+      "type": "EcdsaSecp256k1VerificationKey2019",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "K-256",
+        "x": "fDp6AEJ4-CdLl9QAl5qjFihDopqKGromCMOR6r7QP34",
+        "y": "1E9S9kMDNu3Km_VRwXCmS35MQHt1Pkz_v3OqL-D-Di8"
+      }
+    }
+  ],
+  "service": [
+    {
+      "id": "#service-1",
+      "type": "IssuerProfile",
+      "serviceEndpoint": "https://halsk.github.io/nft-vc/blockcerts.json"
+    }
+  ]
+}
