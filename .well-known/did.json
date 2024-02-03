@@ -22,7 +22,7 @@
     {
       "id": "#service-2",
       "type": "IssuerProfile",
-      "serviceEndpoint": "https://halsk.github.io/nft-vc2/blockcerts.json"
+      "serviceEndpoint": "https://halsk.github.io/nft-vc/blockcerts2.json"
     }
   ]
 }
