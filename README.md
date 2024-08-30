@@ -13,7 +13,7 @@ This repository contains information for the people who wants to get Hal Seki's 
 
 [講演依頼はこちら](https://github.com/halsk/profile/blob/master/SPEECH_REQUEST.md)
 
-## 肩書(2024/07/01 現在)
+## 肩書(2024/07/10 現在)
 ※イベントの趣旨に合わせて選択していただいて構いません
 * 政策起業家、シビックハッカー
 
@@ -34,6 +34,7 @@ This repository contains information for the people who wants to get Hal Seki's 
 * 三重県 デジタル推進フェロー
 * 大分県大分市 DXアドバイザー
 * 静岡県 フェロー
+* 滋賀県草津市 未未戦略アドバイザー
 * 総務省 地域情報化アドバイザー
 
 その他
