@@ -34,7 +34,7 @@ This repository contains information for the people who wants to get Hal Seki's 
 * 三重県 デジタル推進フェロー
 * 大分県大分市 DXアドバイザー
 * 静岡県 フェロー
-* 総務省 地域情報化アドバイザー
+* 総務省 地域情報化アドバイザー 幹事
 
 その他
 * GovTech協会 理事
