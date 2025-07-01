@@ -7,11 +7,11 @@ Lisence : CC-BY-ND 4.0
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
 You don't need to show any attribution when you follow above lisence (means you don't modify it). And you can pick up any part of this page.
 
-## Title (as of April 24, 2023)
+## Title (as of July 01, 2025)
 ※You can choose any titles according to the purpose of your event.
-* Georepublic Japan - CEO
 * Code for Japan - Founder
-* HackCamp - CEO/CHO(Chief Hackathon Officer)
+* HackCamp - Founder/CEO
+* Geolonia
 * Digital Agency (Japan) - Senior Expert (Civic Tech)
 
 ## Advisory to governments
@@ -24,24 +24,24 @@ You don't need to show any attribution when you follow above lisence (means you 
 
 ## Profile
 
-67 words
+62 words
 ```
-Hal Seki is an accomplished geolocation service developer and social entrepreneur. As the founder of Code for Japan and CEO of Georepublic Japan and HackCamp, he fosters innovation in addressing social issues. In 2021, he joined the Digital Agency as a Senior Expert in civic tech. His commitment to leveraging technology for social impact has earned him recognition as a prominent figure in Japan's civic tech movement.
+Hal Seki is an accomplished geolocation service developer and social entrepreneur. As the founder of Code for Japan and HackCamp, he fosters innovation in addressing social issues. In 2021, he joined the Digital Agency as a Senior Expert in civic tech. His commitment to leveraging technology for social impact has earned him recognition as a prominent figure in Japan's civic tech movement.
 ```
 
 
-198 words
+197 words
 ```
 Hal Seki, a distinguished geolocation service developer with over two decades of experience, has been making significant contributions to the field of geospatial technology since 2002. As the founder of Code for Japan, Hal has established one of the largest civic tech communities in the country, actively fostering innovation and collaboration in addressing social issues.
 
-In 2021, Hal expanded his professional portfolio by joining the Digital Agency as a Senior Expert in civic tech. In this role, he has continued to offer his expertise to advance the use of technology in addressing societal challenges. Concurrently, Hal has maintained his leadership positions at HackCamp, Code for Japan, and Georepublic Japan.
+In 2021, Hal expanded his professional portfolio by joining the Digital Agency as a Senior Expert in civic tech. In this role, he has continued to offer his expertise to advance the use of technology in addressing societal challenges. Concurrently, Hal has maintained his leadership positions at HackCamp, Code for Japan, and Geolonia.
 
-As the CEO of both Georepublic Japan and HackCamp, Hal provides expert consulting and development services in the realm of location-based systems and supports organizations in implementing open innovation strategies. It was his involvement in Sinsai.info, a past project and crowdsourcing platform developed in response to the Great East Japan Earthquake, that served as a catalyst for Hal's journey into social entrepreneurship. Inspired by the platform's impact, Hal has since dedicated himself to promoting the civic tech movement in Japan and leveraging technology to tackle pressing societal challenges.
+As the board of Geolonia and CEO of HackCamp, Hal provides expert consulting and development services in the realm of location-based systems and supports organizations in implementing open innovation strategies. It was his involvement in Sinsai.info, a past project and crowdsourcing platform developed in response to the Great East Japan Earthquake, that served as a catalyst for Hal's journey into social entrepreneurship. Inspired by the platform's impact, Hal has since dedicated himself to promoting the civic tech movement in Japan and leveraging technology to tackle pressing societal challenges.
 ```
 
 ## Contact
 
-hal@georepublic.co.jp
+hal@code4japan.org
 
 ## Social Media
 
