@@ -7,11 +7,11 @@ Lisence : CC-BY-ND 4.0
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
 You don't need to show any attribution when you follow above lisence (means you don't modify it). And you can pick up any part of this page.
 
-## Title (as of July 01, 2025)
+## Title (as of September 01, 2025)
 ※You can choose any titles according to the purpose of your event.
 * Code for Japan - Founder
 * HackCamp - Founder/CEO
-* Geolonia
+* Geolonia - Director
 * Digital Agency (Japan) - Senior Expert (Civic Tech)
 
 ## Advisory to governments
