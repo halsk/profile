@@ -19,7 +19,7 @@ This repository contains information for the people who wants to get Hal Seki's 
 
 運営組織
 * 一般社団法人コード・フォー・ジャパン 代表理事
-* 株式会社HackCamp 代表取締役社長/CEO
+* 株式会社HackCamp 代表取締役会長/CEO
 
 勤務
 * 株式会社 Geolonia 取締役
