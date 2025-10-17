@@ -13,7 +13,7 @@ This repository contains information for the people who wants to get Hal Seki's 
 
 [講演依頼はこちら](https://github.com/halsk/profile/blob/master/SPEECH_REQUEST.md)
 
-## 肩書(2025/07/01 現在)
+## 肩書(2025/09/01 現在)
 ※イベントの趣旨に合わせて選択していただいて構いません
 * 政策起業家、シビックハッカー
 
@@ -22,7 +22,7 @@ This repository contains information for the people who wants to get Hal Seki's 
 * 株式会社HackCamp 代表取締役会長/CEO
 
 勤務
-* 株式会社 Geolonia
+* 株式会社 Geolonia 取締役
 
 行政アドバイザー
 * デジタル庁 シニアエキスパート（シビックテック）
@@ -95,15 +95,14 @@ This repository contains information for the people who wants to get Hal Seki's 
 
 ## Contact
 
-hal@geolonia.com
+hal@code4japan.org
 
 ## Social Media
 
 * note: [hal_sk](https://note.com/hal_sk/)
 * Facebook: [halsk](https://www.facebook.com/halsk)
-* Twitter: [hal_sk](https://twitter.com/hal_sk)
+* X: [hal_sk](https://x.com/hal_sk)
 * Linkedin: [halsk](https://www.linkedin.com/in/halsk/)
-* Qiita: [hal_sk](http://qiita.com/hal_sk)
 
 ## profile picture
 
