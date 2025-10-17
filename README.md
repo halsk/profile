@@ -13,7 +13,7 @@ This repository contains information for the people who wants to get Hal Seki's 
 
 [講演依頼はこちら](https://github.com/halsk/profile/blob/master/SPEECH_REQUEST.md)
 
-## 肩書(2025/09/01 現在)
+## 肩書(2025/10/16 現在)
 ※イベントの趣旨に合わせて選択していただいて構いません
 * 政策起業家、シビックハッカー
 
@@ -44,6 +44,10 @@ This repository contains information for the people who wants to get Hal Seki's 
 * 一般社団法人耐災害デジタルコーディネーションセンター（DIT/CC） 理事
 * デジタル民主主義2030 ボードメンバー
 
+受賞歴・新聞掲載等
+
+* 2025年10月：The International Foundation for Electoral Systems (IFES) [Charles T. Manatt Democracy Award 2025](https://www.ifes.org/news/ifes-presents-2025-democracy-award-leaders-technology-and-democracy)
+* 2025年9月28日：日本経済新聞 朝刊 [コード・フォー・ジャパンの関治之さん　市民＋テックが行政を変えるNIKKEI The STYLE「My Story」](https://www.nikkei.com/article/DGXZQOUA265YF0W5A820C2000000/)
 
 ## プロフィール
 
@@ -106,8 +110,12 @@ hal@code4japan.org
 
 ## profile picture
 
+* 営利目的での利用は禁止します。
+* 演出効果を目的とする解像度の変更や、意図的な色の変更、図像の変形はご遠慮ください。白黒での使用は問題ありません。
+
 (click to get a raw imgage)
 
+<a href="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image5.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/profile_image5.jpg" width="300px"></a>
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/bust-up-1.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/bust-up-1.jpg" width="300px"></a>
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/full-body-1.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/full-body-1.jpg" width="300px"></a>
 <a href="https://raw.githubusercontent.com/halsk/profile/master/images/bust-up-2.jpg"><img src="https://raw.githubusercontent.com/halsk/profile/master/images/bust-up-2.jpg" width="300px"></a>
