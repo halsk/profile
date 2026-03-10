@@ -29,6 +29,11 @@ You don't need to show any attribution when you follow above lisence (means you 
 Hal Seki is an accomplished geolocation service developer and social entrepreneur. As the founder of Code for Japan and HackCamp, he fosters innovation in addressing social issues. In 2021, he joined the Digital Agency as a Senior Expert in civic tech. His commitment to leveraging technology for social impact has earned him recognition as a prominent figure in Japan's civic tech movement.
 ```
 
+140 words
+```
+Hal Seki is the Representative Director of Code for Japan. As a policy entrepreneur and civic hacker, Hal leads initiatives that leverage technology and citizen participation to address social challenges. Following the Great East Japan Earthquake in 2011, Hal launched the information-sharing platform sinsai.info, which became a pioneering example of crisis mapping. In 2013, Hal founded Code for Japan and has since helped grow one of the country's largest civic tech communities.
+Hal currently serves as a Senior Expert at Japan's Digital Agency, Chief Innovation Officer for the City of Kobe, and Chief Digital Service Fellow for the Tokyo Metropolitan Government. Hal also advises more than 15 local governments across Japan on digital transformation and civic tech initiatives. In addition, Hal is a board member of the GovTech Association, promoting public–private collaboration to advance a more open and digital society.
+```
 
 197 words
 ```
